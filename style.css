@@ -1,0 +1,38 @@
+.index-header {
+    background-color: chocolate;
+    color: darkorchid;
+    text-align: center;
+    font-size: 100px;
+}
+
+.recipe-list{
+    list-style: none;
+    text-align: center;
+    font-size: 25px;
+}
+
+.recipe-header {
+    text-align: center;
+    font-size: 75px;
+    color: lightsalmon;
+}
+
+img {
+    height: auto;
+    width: 300px
+}
+
+h3 {
+    font-size: 25px;
+    color:darkgoldenrod;
+}
+
+.description {
+    background-color:bisque;
+    color:black;
+}
+
+.steps,
+.ingredients {
+    color:firebrick;
+}
